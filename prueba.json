@@ -1,0 +1,6 @@
+{
+    "nombre": "Mauricio",
+    "apellido": "Reyes",
+    "mensaje": "Hola Mundo desde JSON :P",
+    "aptitudes": ["Inteligente", "Respetuoso", "Humilde", "Aprendizaje Rápido"]
+}
