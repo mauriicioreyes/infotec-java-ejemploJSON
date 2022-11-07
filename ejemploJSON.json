@@ -1,0 +1,23 @@
+{
+  "nombre": "Mauricio",
+  "apellido": "Reyes",
+  "edad": 26,
+  "registrado": true,
+  "fechaBaja": null,
+  "temasCursados": ["JavaScript", "Java", "HTML"],
+  "pagosRealizados": [100, 599, 20, 380],
+  "historialAcademico": [
+    {
+      "periodo": "Enero 2020",
+      "aula": "A5",
+      "materiasCursadas": ["Español 1", "Ingles 1", "Tecnología 1"],
+      "calificaciones": [98, 75, 60]
+    },
+    {
+      "periodo": "Agosto 2020",
+      "aula": "B1",
+      "materiasCursadas": ["Lenguas 2", "Matemáticas 1", "Tecnología 2"],
+      "calificaciones": [100, 100, 95]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "valor": null,
+  "numero": 123,
+  "cadena": "Hola",
+  "booleano": true,
+  "matrizNumeros": [1,2,3],
+  "matrizCadenas": ["a","e","i","o","u"],
+  "matrizObjetos": [
+    {
+      "nombre": "Alejandro",
+      "edad": 32
+    },
+    {
+      "nombre": "Francisco",
+      "edad": 27
+    }
+  ],
+  "objeto": {
+    "parametros":"valor",
+    "color": "Rojo",
+    "añoFabricacion": 1990,
+    "lote": 159
+  }
+}
